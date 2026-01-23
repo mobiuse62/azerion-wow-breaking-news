@@ -5,11 +5,11 @@ SERVERALERT:
 |TInterface\ICONS\inv_misc_newsbag:25:25:0:-5|t |cFFAA22FFServer News|r
 |TInterface\ICONS\inv_misc_coin_01:18:18:0:-8|t |cFFE6CC80- Brand new Custom Mall now available|r
 |TInterface\ICONS\achievement_dungeon_heroic_gloryoftheraider:18:18:0:-8|t |cFFE6CC80- Dungeons Tier 1 to Tier 5 added|r
-|TInterface\ICONS\achievement_boss_ragnaros:18:18:0:-8|t |cFFE6CC80- Raid Tier 11 (Molten Core) is now available|r
+|TInterface\ICONS\achievement_boss_ragnaros:18:18:0:-8|t |cFFE6CC80- Raid Tier 1 (Molten Core) is now available|r
 |TInterface\ICONS\ability_mount_drake_bronze:18:18:0:-8|t |cFFE6CC80- New mounts from other expansions added|r
 |TInterface\ICONS\spell_arcane_teleportdalaran:18:18:0:-8|t |cFFE6CC80- Custom teleportation system implemented|r
 ----------------------------------------------------------
 |TInterface\ICONS\inv_inscription_weaponscroll02:25:25:0:-5|t |cFFAA22FFReady for your adventure ?|r
 |TInterface\ICONS\achievement_guildperk_everybodysfriend:18:18:0:-5|t |cFFE6CC80Join our community:|r 
-            |TInterface\ICONS\mail_gmicon:18:18:0:-3|t Website: https://Azerion-WoW.COM | 
-            |TInterface\ICONS\inv_misc_groupneedmore:18:18:0:-3|t Discord: https://discord |
+        |TInterface\ICONS\mail_gmicon:18:18:0:-3|t Website: https://Azerion-WoW.COM |r
+        |TInterface\ICONS\inv_misc_groupneedmore:18:18:0:-3|t Discord: https://discord |r
